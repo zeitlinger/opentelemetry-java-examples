@@ -1,7 +1,7 @@
 [tools]
 "go:github.com/grafana/oats" = "0.6.1"
 k3d = "5.8.3"
-kubectl = "1.36.0"
+kubectl = "1.36.1"
 
 # Linters
 "aqua:grafana/flint" = "0.22.2"
