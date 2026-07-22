@@ -12,5 +12,6 @@ set -euo pipefail
 
 oats \
   --config oats-config.yaml \
+  --container-runtime docker \
   --no-cache \
   --timeout=10m
